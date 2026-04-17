@@ -16,4 +16,4 @@ Observação
 Este projeto utiliza informações fictícias para fins educacionais e demonstração de layout.
 
 Acesse o projeto
-(Adicione aqui o link quando ativar o GitHub Pages)
+(https://yannrean.github.io/web-curriculo/)
