@@ -1,0 +1,69 @@
+body {
+    background-color: #f4f4f4;
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+#topo-site{
+    text-align: center;
+    padding: 20px 30px;
+    background-color: #ccc6c6;
+}
+
+.titulo-principal{
+    font-size: 35px;
+    margin-top: 0;
+}
+
+.bloco-imagem{
+    text-align: center;
+    margin-top: 0;
+}
+
+.bloco-imagem img{
+    width: 200px;
+    max-width: 200px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.lista-contato li {
+    list-style: none;
+    text-align: left;
+    margin:0;
+    margin-bottom: 10px;
+
+}
+
+.titulo-secao {
+    color: #222222;
+    margin-top: 0;
+}
+
+.bloco-conteudo {
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+a{
+    color: #01329b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.subtexto{
+    margin: 20px;
+    padding: 20px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
